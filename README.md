@@ -23,3 +23,9 @@ Para visualizar o mapa, usando o pacote mapview:
 library(mapview)
 mapview::mapview(shp)
 ```
+
+Para ler um arquivo em formato shapefile no R diretamente do site do IBGE:
+
+```
+shp <- st_read("/vsizip//vsicurl/https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2022/UFs/SP/SP_UF_2022.zip")
+```
