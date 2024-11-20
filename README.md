@@ -6,6 +6,8 @@
 
 SP_RG_Intermediarias_2022: Regiões Intermediárias do Estado de Sâo Paulo
 
+SP_Municipios_2022: Municípios do Estado de Sâo Paulo
+
 BR_UF_2021: Unidades da Federação
 
 Para ler um arquivo em formato shapefile no R:
