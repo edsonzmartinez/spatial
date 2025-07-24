@@ -10,6 +10,8 @@ SP_Municipios_2022: Municípios do Estado de Sâo Paulo
 
 BR_UF_2021: Unidades da Federação
 
+RP_setores_CD2022: Setores Censitários de Ribeirão Preto, SP, de acordo com o Censo Demográfico de 2022
+
 Para ler um arquivo em formato shapefile no R:
 
 ```
